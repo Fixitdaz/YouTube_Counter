@@ -4,7 +4,7 @@ A real-time YouTube subscriber counter built for the ESP32-2432S028R (commonly k
 Author: fixitdaztv
 Date: 2025-12-10
 
-[Project Screenshot](//github.com/Fixitdaz/YouTube_Counter/edit/main/README.md)
+[Project Screenshot](https://github.com/Fixitdaz/YouTube_Counter/blob/main/YouTube_Counter/YouTube_Counter.png)
 
 Hardware
 Board: ESP32-2432S028R (CYD)
